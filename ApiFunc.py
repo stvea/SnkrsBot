@@ -48,7 +48,7 @@ def setCheckoutId(account,item):
         "User-Agent": UserAgent,
         "X-NewRelic-ID": "VQYGVF5SCBADUVBRBgAGVg=="
     }
-    data = {"request": {"email": "119174379@qq.com",
+    data = {"request": {"email": "11675675679@qq.com",
                         "clientInfo": {"deviceId": "", "client": "com.nike.commerce.snkrs.ios"}, "currency": "CNY",
                         "items": [{"recipient": account.recipientInfo,
                                    "shippingAddress": account.addressInfo,
