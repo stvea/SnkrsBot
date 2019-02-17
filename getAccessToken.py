@@ -52,5 +52,3 @@ def getToken(username,password):
     finally:
         driver.close()
         driver.quit()
-
-getToken('13951807086','Gechao12')
